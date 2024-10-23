@@ -3,3 +3,9 @@
 This is a **number guessing game project** in **c++** from https://roadmap.sh/projects/number-guessing-game
 
 **The rules are simple you have to guess a number from 1 to 100**
+
+
+# Todo
+- [ ] Add a timer
+- [ ] Add a hint system
+- [ ] Add a local scoreboard
